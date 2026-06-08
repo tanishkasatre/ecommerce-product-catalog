@@ -1,0 +1,25 @@
+body{
+font-family:Arial;
+margin:0;
+padding:20px;
+background:#f4f4f4;
+}
+
+nav{
+background:#333;
+padding:15px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin-right:15px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
